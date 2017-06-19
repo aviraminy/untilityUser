@@ -1,0 +1,15 @@
+{
+  "name": "untilityUser",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "npm --prefix ./node_modules/untilityUser run start",
+    "build": "webpack"
+  },
+  "devDependencies": {
+    "untility": "aviraminy/untilityUser"
+  },
+  "dependencies": {
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4"
+  }
+}
